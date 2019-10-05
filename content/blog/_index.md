@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: News
+layout: blog
 menu:
   secondary:
-    name: Blog
     weight: 2
-layout: blog
+
 ---
