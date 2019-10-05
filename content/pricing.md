@@ -17,7 +17,7 @@ sections:
       * Suspendisse ut lacus
       * Etiam eget dui a augue
     actions:
-    - label: Enroll Now
+    - label: Get Started
       url: "/signup"
     highlight: false
   - title: Professional Trader
@@ -30,17 +30,17 @@ sections:
       * Nullam sollicitudin ante
     highlight: true
     actions:
-    - label: Enroll Now
+    - label: Get Started
       url: "/signup"
-  - title: Enterprise
-    price: "$149/m"
+  - title: Star Trader
+    price: "$4997"
     details: |-
       * Vestibulum non eros quis
       * Aenean iaculis lorem
       * Mauris eleifend sapien
       * Phasellus lobortis risus
     actions:
-    - label: Order Now
+    - label: Get Started
       url: "/signup"
     highlight: false
 - type: faqblock
