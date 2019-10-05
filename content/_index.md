@@ -7,7 +7,7 @@ sections:
   title: Forex Trading
   component: hero_block.html
   content: Get ready to Start getting results from your Trading.
-  image: "/v1570267880/samples/animals/kitten-playing.gif"
+  image: "/v1570267954/Star%20Prosper/colored/1-_2000x1000_nkvwni.png"
   actions:
   - label: Learn More
     url: "/features"
