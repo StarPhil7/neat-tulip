@@ -4,10 +4,10 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: Star Prosper
-  title: Become a Star Trader Today
+  title: Forex Trading
   component: hero_block.html
-  content: Beautiful Design   -   Professional Development   -   Easy to Use Interface
-  image: "/images/8.jpg"
+  content: Get ready to Start getting results from your Trading.
+  image: "/images/#1-(2000x1000).png"
   actions:
   - label: Learn More
     url: "/features"
