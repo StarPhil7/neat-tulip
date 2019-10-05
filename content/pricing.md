@@ -20,8 +20,8 @@ sections:
     - label: Enroll Now
       url: "/signup"
     highlight: false
-  - title: Professional
-    price: "$49/m"
+  - title: Professional Trader
+    price: "$297/m"
     details: |-
       * Curabitur non nunc mollis
       * Duis a purus nec ligula
@@ -30,7 +30,7 @@ sections:
       * Nullam sollicitudin ante
     highlight: true
     actions:
-    - label: Order Now
+    - label: Enroll Now
       url: "/signup"
   - title: Enterprise
     price: "$149/m"
