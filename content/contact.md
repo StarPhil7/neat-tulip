@@ -1,10 +1,11 @@
 ---
 title: Contact
+layout: contact
+subtitle: ''
+img_path: "/images/#1-(2000x1000-black).png"
 menu:
   secondary:
-    name: Contact
     weight: 3
-layout: contact
----
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
