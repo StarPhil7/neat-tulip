@@ -7,7 +7,7 @@ sections:
   title: Become a Star Trader Today
   component: hero_block.html
   content: Beautiful Design   -   Professional Development   -   Easy to Use Interface
-  image: "/images/#1-(2000x1000).png"
+  image: "/images/8.jpg"
   actions:
   - label: Learn More
     url: "/features"
